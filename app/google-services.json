@@ -1,0 +1,130 @@
+{
+  "project_info": {
+    "project_number": "420293618665",
+    "firebase_url": "https://mymadmax22.firebaseio.com",
+    "project_id": "mymadmax22",
+    "storage_bucket": "mymadmax22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420293618665:android:6611ff81d94ee62e",
+        "android_client_info": {
+          "package_name": "madmax.com.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420293618665-6pk2inckm4d5s3kf26mbh2ocroh2tkku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2QzNLA5j4bfb4WYJHaMH-IORJtgOiPuQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420293618665:android:2a753eae4fd6051c",
+        "android_client_info": {
+          "package_name": "madmax22.com.expenses"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420293618665-4l1ufbsv9jt6qiu2bvjbbvaant35eqai.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "madmax22.com.expenses",
+            "certificate_hash": "429c5fd18c8ddc622291e4b4b5c4d50df3f80791"
+          }
+        },
+        {
+          "client_id": "420293618665-6pk2inckm4d5s3kf26mbh2ocroh2tkku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2QzNLA5j4bfb4WYJHaMH-IORJtgOiPuQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420293618665-6pk2inckm4d5s3kf26mbh2ocroh2tkku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420293618665:android:c1a0507e5824e2aa",
+        "android_client_info": {
+          "package_name": "fb.com.myapplication102"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "420293618665-0iakq3mt5t89f3lv3u66eh5d5h3elm4v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fb.com.myapplication102",
+            "certificate_hash": "429c5fd18c8ddc622291e4b4b5c4d50df3f80791"
+          }
+        },
+        {
+          "client_id": "420293618665-6pk2inckm4d5s3kf26mbh2ocroh2tkku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2QzNLA5j4bfb4WYJHaMH-IORJtgOiPuQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "420293618665-6pk2inckm4d5s3kf26mbh2ocroh2tkku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
